@@ -1,0 +1,5 @@
+{
+  "name": "24 Solar Terms Poetry (二十四节气诗词)",
+  "description": "An aesthetic application that recommends and analyzes classic Chinese poetry based on the current Solar Term using Gemini AI.",
+  "requestFramePermissions": []
+}
